@@ -1,1 +1,18 @@
-
+body{
+    background-color: blue;
+    }
+    
+    Estilizar o título principal do seu site
+     h1{
+    color:red ;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+    background:yellow ;
+    }
+    
+    Estilizar os parágrafos
+    p{
+    color: ;
+    font-family: ;
+    font-size: ;
+    background: ;
+    }
